@@ -1,4 +1,4 @@
-const CACHE = 'vildsund-baadelaug-v1';
+﻿const CACHE = 'vildsund-baadelaug-v3';
 const CORE = ['./', './index.html', './vilsund.png', './manifest.webmanifest', './icon-192.png', './icon-512.png',
   'https://unpkg.com/three@0.160.0/build/three.module.js'];
 
