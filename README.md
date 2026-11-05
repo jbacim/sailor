@@ -1,5 +1,5 @@
-﻿# ⛵ Island Sailor
+# ⛵ Vildsund Bådelaug
 
-Mobile-friendly three.js sailing simulator. Tilt your phone to steer, sail between islands, 2-minute day/night cycle.
+Mobilvenlig sejlsimulator i three.js. Vip telefonen for at styre, vælg mellem kortene **Øerne** og **Vilsund**, og oplev et døgn på 2 minutter.
 
-Play: https://jbacim.github.io/sailor/
+Spil: https://jbacim.github.io/sailor/
